@@ -1,0 +1,3786 @@
+[
+  {
+    "codigo": "00004945",
+    "producto": "ACICLAV 250+62.5MG/5MG FRASCO X60ML",
+    "principio_activo": "Amoxicilina + ácido clavulánico",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004944",
+    "producto": "ACICLAV 500MG + 125MG TABLETA CJA X 14 UNID",
+    "principio_activo": "Amoxicilina + ácido clavulánico",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004943",
+    "producto": "ACICLAV 875MG + 125MG TABLETA CJA X 14 UNID",
+    "principio_activo": "Amoxicilina + ácido clavulánico",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004913",
+    "producto": "ACLARA T ACLARANTE B3 NORMAL A SECA CAJA X20 SACHE",
+    "principio_activo": "Arbutina + niacinamida (vitamina B3) + extracto de regaliz",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004911",
+    "producto": "ACLARA T AGUA MICELAR 4 EN1 FRASCO X120ML",
+    "principio_activo": "Niacinamida (vitamina B3) + agentes micelares",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004910",
+    "producto": "ACLARA T HIDRATANTE B3 CAJA X 20 SACHET",
+    "principio_activo": "vitamina B3+vitamina A",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004908",
+    "producto": "ACLARA T JABON EN BARRA X80GR C/CAJA",
+    "principio_activo": "vitamina B3",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004907",
+    "producto": "ACLARA-T CREMA CORPORAL ALMENDRAS Y VAINILLA PACK",
+    "principio_activo": "Almendras",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004897",
+    "producto": "ACNOMEL JUNIOR GRANULOS LIMPIADORES X 40 SACHETS",
+    "principio_activo": "Azufre precipitado+Resorcinol (2g)",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "MEDIFARMA  ZAIDMAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004871",
+    "producto": "AFTOTEX SOLUCION PINCEL X 15ML",
+    "principio_activo": "Ácido salicílico + extracto de ruibarbo",
+    "grupo": "MEDICINAS",
+    "laboratorio": "LUKOLL S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004797",
+    "producto": "ALCOHOL EN GEL ASEA-T FRASCO X 350 ML",
+    "principio_activo": "Alcohol etílico (etanol)",
+    "grupo": "ANTISÉPTICOS",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004796",
+    "producto": "ALCOHOL EN GEL ASEA-T FRASCO X 90 ML",
+    "principio_activo": "Alcohol etílico (etanol)",
+    "grupo": "ANTISÉPTICOS",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004785",
+    "producto": "ALENDRON-70 70MG X 5 TAB DESC",
+    "principio_activo": "Alendronato",
+    "grupo": "ANTIOSTEOPOROSIS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004783",
+    "producto": "ALERDEL 180MG CAJA X 30 TABLETAS",
+    "principio_activo": "Fexofenadina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004757",
+    "producto": "ALICAM FORTE 500 MG X 100 TAB",
+    "principio_activo": "Paracetamol",
+    "grupo": "ANTIPIRETICO ANALGESICO",
+    "laboratorio": "PHARMED CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004712",
+    "producto": "AMBROXMEDIC (15)15MG/5ML SOLUCION ORAL X120ML",
+    "principio_activo": "Ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004706",
+    "producto": "AMIGDAZOL B SPRAY X 20 ML",
+    "principio_activo": "clorhidrato de benzidamina al 0,15%",
+    "grupo": "ANTIINFLAMATORIOS",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004704",
+    "producto": "AMIGDAZOL PLUS CAJA X 120 COMP MASTICABLE",
+    "principio_activo": "bencidamina clorhidrato +benzocaína+mentol",
+    "grupo": "ANTIINFLAMATORIOS",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004656",
+    "producto": "ANEMIPLUS FRASCO X 345 ML",
+    "principio_activo": "Magnesio, hierro, vitamina B2, alfalfa, polen, jalea real, miel de abeja y albúmina de huevo.",
+    "grupo": "Suplementos nutricionales / vitamínicos",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004654",
+    "producto": "ANGIDEX NF 30 MG CJA X 30 CAP",
+    "principio_activo": "Nifedipino",
+    "grupo": "ANTIHIPERTENSIVO / CARDIOVASCULAR",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004653",
+    "producto": "ANIXOR 220MG /5MLSUSP ORAL X 100ML",
+    "principio_activo": "nifuroxazida",
+    "grupo": "ANTIBACTERIANOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004647",
+    "producto": "ANTIESTRES FRASCO X100 CAPSULAS",
+    "principio_activo": "CALCIO,FOSFORO,MAGNESIO",
+    "grupo": "suplementos antiestrés/vitamínicos",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004646",
+    "producto": "ANTIOXI- E400 MG X30 CAP BLANDAS",
+    "principio_activo": "Vitamina E",
+    "grupo": "VITAMINAS LIPOSOLUBLE",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004638",
+    "producto": "APROXEN 550MG CAJA X120 TABLETAS",
+    "principio_activo": "Naproxeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004625",
+    "producto": "ARGESICO 60MG CAJA X30 TABLETAS",
+    "principio_activo": "Etoricoxib",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004623",
+    "producto": "ARGOL SUSP ORAL FRASCO X180ML",
+    "principio_activo": "subsalicilato de bismuto",
+    "grupo": "protectores gástricos y antiácidos",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004622",
+    "producto": "ARGOL SUSP ORAL FRASCO X340ML",
+    "principio_activo": "subsalicilato de bismuto",
+    "grupo": "protectores gástricos y antiácidos",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004620",
+    "producto": "ARNICA SPORT SPRAY X 75ML",
+    "principio_activo": "arnica+mentol+eucalipto",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "PHARMARIS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004619",
+    "producto": "ARNIKADERM GEL X 50GR",
+    "principio_activo": "arnica",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "PHARMARIS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004613",
+    "producto": "ARTRIXICAM 15MG CAJA X 100 TABLETAS",
+    "principio_activo": "Meloxicam",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004612",
+    "producto": "ARTRIXICAM 15MG/1.5MLCAJA X10AMPOLLAS",
+    "principio_activo": "Meloxicam",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004573",
+    "producto": "AUROVAS 20 MG X 30 TABS",
+    "principio_activo": "Rosuvastatina",
+    "grupo": "HIPOLIPEMIANTES",
+    "laboratorio": "CAFERMA LABORATORIOS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004540",
+    "producto": "AZITROMAC 200 MG SUSP X 30 ML",
+    "principio_activo": "Azitromicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004539",
+    "producto": "AZITROMAC 500 MG X 30 COMP.",
+    "principio_activo": "Azitromicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004520",
+    "producto": "B-COMPLEX B TUBO,X20EFERVECENTES",
+    "principio_activo": "vitamina b",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GERMAN NERGY",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004491",
+    "producto": "BABYGUU BIBERON POLIP CON SORBETE X10 OZ /300 ML C",
+    "principio_activo": "Polipropileno (PP) + sorbete",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004490",
+    "producto": "BABYGUU BIBERON POLIP MODELO PATO X10 OZ /300 ML C",
+    "principio_activo": "Polipropileno (PP) + sorbete",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004489",
+    "producto": "BABYGUU BIBERON POLIP OSO DOBLE TETINA X11OZ /330M",
+    "principio_activo": "Polipropileno (PP) + sorbete",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004488",
+    "producto": "BABYGUU BIBERON POLIP OSO DOBLE TETINA X6OZ /180ML",
+    "principio_activo": "Polipropileno (PP) + sorbete",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004487",
+    "producto": "BABYGUU BIBERON VIDRIO C/PROTECTOR X6OZ /180ML COD",
+    "principio_activo": "Vidrio + protector + tetina",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004486",
+    "producto": "BABYGUU BIBERON VIDRIO C/PROTECTOR X9OZ /260MLML C",
+    "principio_activo": "Vidrio + protector + tetina",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004483",
+    "producto": "BABYGUU TOALLAS HUMEDAS X160 UNID",
+    "principio_activo": "Vidrio + protector + tetina",
+    "grupo": "Artículos para bebé",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004458",
+    "producto": "BACTAMOX 1GR X 20 TABLETAS",
+    "principio_activo": "Amoxicilina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004457",
+    "producto": "BACTAMOX 500 MG X 100 CAPSULAS",
+    "principio_activo": "Amoxicilina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004427",
+    "producto": "BANES FORTE 200MG X 60ML",
+    "principio_activo": "Ibuprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "INDUFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004388",
+    "producto": "BETAFLAM 0.05% CREMA X20GR",
+    "principio_activo": "Betametasona",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004378",
+    "producto": "BETAVERTIL 16MG CAJA X20 TABLETAS",
+    "principio_activo": "Betahistina",
+    "grupo": "ANTIEMETICO ANTIVERTIGINOSO",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004377",
+    "producto": "BETAVERTIL 24MG CAJA X20 TABLETAS",
+    "principio_activo": "Betahistina",
+    "grupo": "ANTIEMETICO ANTIVERTIGINOSO",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004352",
+    "producto": "BIO MAGNES SABOR NARANJA X33 SOBRES",
+    "principio_activo": "citrato de magnesio + zinc",
+    "grupo": "MULTIVITAMINIOO/DIETETICO",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004344",
+    "producto": "BIONIS15MG/5ML JBE X100ML (PREDNISOLONA)",
+    "principio_activo": "Prednisolona",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004343",
+    "producto": "BIONTAMIN FORTE CAJA X30 CAPSULAS",
+    "principio_activo": "complejo b + zinc",
+    "grupo": "MULTIVITAMINICO",
+    "laboratorio": "THEFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004342",
+    "producto": "BIOPIEL PANTHENOL X 20GR",
+    "principio_activo": "Dexpantenol + vitamina A + vitamina E",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004341",
+    "producto": "BIOPRED JARABE 5MG/5ML X 60ML",
+    "principio_activo": "Prednisolona",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004337",
+    "producto": "BIOTIN COMPLEX FRASCO X60 TABLETAS",
+    "principio_activo": "biotina",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "FINA VIDA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004306",
+    "producto": "BLOCK SURE REPELENTE SPRAY X120ML",
+    "principio_activo": "Dietiltoluamida (DEET) al 10%",
+    "grupo": "REPELENTES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004281",
+    "producto": "BONACOXIB 120MG X7 TABLETAS",
+    "principio_activo": "Etoricoxib",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004278",
+    "producto": "BONAFLORA 250MG CAPSULA CAJA X 10 UNID",
+    "principio_activo": "Saccharomyces boulardii",
+    "grupo": "PROBIOTICOS Y PREBIOTICOS",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004251",
+    "producto": "BRONCO MEDICAL 500MG CAJA X100 CAPSULAS",
+    "principio_activo": "amoxicilina+bromehina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004248",
+    "producto": "BRONCO PEMBRIMAX X 60ML (AMOX250MG+BROMHE4MG)",
+    "principio_activo": "Amoxicilina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004237",
+    "producto": "BRONQUIFLEX 15MG75ML+7.5MG/5MLFRASCO X120ML",
+    "principio_activo": "Dextrometorfano + difenhidramina",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004236",
+    "producto": "BRONQUIO FLEMITOS FORTE RAPID 70MG X 16 CAP",
+    "principio_activo": "hedera helix",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004234",
+    "producto": "BRONQUIOFLEMITOSS BALSAMICO PROPOLEO JBE X75ML",
+    "principio_activo": "hedera helix",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004229",
+    "producto": "BUDEPHARM 200MCG/DOSIS X200 DOSIS",
+    "principio_activo": "Budesonida",
+    "grupo": "ANTIASMATICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004196",
+    "producto": "CALCIO COMPLEX CAJA X30 EFERVECENTES",
+    "principio_activo": "Calcio+Vitamina B6 + Vitamina B12+Cloruro de Magnesio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004177",
+    "producto": "CARAMELOS BROMKISAN VITAMINA A,C Y E BOMBONERA X60",
+    "principio_activo": "vitamina a,vitamina c, vitamina e",
+    "grupo": "Antitusígenos",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004176",
+    "producto": "CARAMELOS GENGI FRESH BOMBONERA X60 UNIDADES",
+    "principio_activo": "kion",
+    "grupo": "Antitusígenos",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004156",
+    "producto": "CARVELAN 6.25 MG CAJA X100 TABLETAS",
+    "principio_activo": "Carvedilol",
+    "grupo": "BETABLOQUEANTES",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004148",
+    "producto": "CEEPRO C SOLUCION OFTALMICA X 5ML",
+    "principio_activo": "ciprofloxaciono",
+    "grupo": "ANTIBIÓTICOS OFTÁLMICOS",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004101",
+    "producto": "CEPILLO ADULTOS ARYDENTS MEDIUM X1 UNID",
+    "principio_activo": "",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004095",
+    "producto": "CEPILLO NIÑOS ARYDENTS/APOOL KIDS X1 UNID",
+    "principio_activo": "",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "COMERCIAL TALAVERANO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004039",
+    "producto": "CIDOBEL 500MG CAJA X100 CAPSULAS",
+    "principio_activo": "dobesilato de calcio",
+    "grupo": "antivaricosos",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004016",
+    "producto": "CIPZY 0.3% SOLUCION OFTALMICA X5ML",
+    "principio_activo": "Ciprofloxacino",
+    "grupo": "ANTIBIÓTICOS OFTÁLMICOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004002",
+    "producto": "CITRATO DE MAGNESIO SABOR PIÑA CAJA X30 EFERVECENT",
+    "principio_activo": "citrato de magnesio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004000",
+    "producto": "CITRATO DE POTASIO 100% PURO FRASCO X 250G",
+    "principio_activo": "citrato de postasio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "GARDANLIFE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003999",
+    "producto": "CITROCALCIO X 30 TABLETAS",
+    "principio_activo": "citrato de calcio + vitamina d",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003998",
+    "producto": "CITROFLOW K 1080MG CAJA X50 TAB",
+    "principio_activo": "citrato de potasio 1080",
+    "grupo": "alcalinizantes urinarios",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003980",
+    "producto": "CLAVUTRIM CL 250MG/5ML JARABE FRASCO X 60 ML",
+    "principio_activo": "Amoxicilina + ácido clavulánico",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003974",
+    "producto": "CLENBROXOL 0.02MG+30MG CAJA X100 TABLETAS",
+    "principio_activo": "Clenbuterol + ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003967",
+    "producto": "CLICK AROS DISPLAY 24 X 3 UNDS",
+    "principio_activo": "Látex de caucho natural + lubricante",
+    "grupo": "Anticonceptivo – Preservativo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003966",
+    "producto": "CLICK CLASICO DISPLAY 24 X 3 UNDS",
+    "principio_activo": "Látex de caucho natural + lubricante",
+    "grupo": "Anticonceptivo – Preservativo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003965",
+    "producto": "CLICK ESPUELAS DISPLAY 24 X 3 UNDS",
+    "principio_activo": "Látex de caucho natural + lubricante",
+    "grupo": "Anticonceptivo – Preservativo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003964",
+    "producto": "CLICK ULTRA LIGERO DISPLAY 24 X 3 UNDS",
+    "principio_activo": "Látex de caucho natural + lubricante",
+    "grupo": "Anticonceptivo – Preservativo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003954",
+    "producto": "CLINDASTED 300MG CAJA X100 CAPSULAS",
+    "principio_activo": "Clindamicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003943",
+    "producto": "CLOBULER 15MG/5ML X 100ML PEDIAT.(AMBROXOL)",
+    "principio_activo": "Ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003942",
+    "producto": "CLOBULER DUO FORTE JARABE FCO X120ML",
+    "principio_activo": "Ambroxol+ Clenbuterol",
+    "grupo": "MEDICINAS",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003940",
+    "producto": "CLOBULER F 30MG/ 5ML X 100ML ADULTO",
+    "principio_activo": "Ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003929",
+    "producto": "CLOPTOP 75MG CAJA X30 TABLETAS",
+    "principio_activo": "Clopidogrel",
+    "grupo": "ANTIAGREGANTE PLAQUETARIOS",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003914",
+    "producto": "CLORHYSTAMYN 2MG/5ML FRASCO X120ML",
+    "principio_activo": "Clorfenamina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003910",
+    "producto": "CLOROPHEN 4MG CAJA X100 TABLETAS",
+    "principio_activo": "Clorfenamina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "GENERION CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003874",
+    "producto": "COLAGEM PLUS -GN X 100 CAPSULAS",
+    "principio_activo": "Colágeno hidrolizado (suplemento)",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003823",
+    "producto": "COLMAR 160MG/5ML FRASCO X60ML",
+    "principio_activo": "paracetamol",
+    "grupo": "analgésicos y antipiréticos.",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003822",
+    "producto": "COLMAR 500MG CAJA X100 TABLETAS",
+    "principio_activo": "paracetamol",
+    "grupo": "analgésicos y antipiréticos.",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003821",
+    "producto": "COLMAR DUO CAJA X100 TABLETAS",
+    "principio_activo": "paracetamol + orfenadrina",
+    "grupo": "relajantes musculares con analgésicos",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003820",
+    "producto": "COLMAR XTRA 1GR. X30 TAB",
+    "principio_activo": "colmar",
+    "grupo": "analgésicos y antipiréticos.",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003800",
+    "producto": "COMPLEJO B FT X 200 CAPSULAS",
+    "principio_activo": "complejo b",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003795",
+    "producto": "COMTREX ANTIGRIPAL DIA X 60 SOBRES",
+    "principio_activo": "Paracetamol+Guaifenesina +Fenilefrina clorhidrato",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "ANSOLAT",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003794",
+    "producto": "COMTREX ANTIGRIPAL NOCHE X 60 SOBRES",
+    "principio_activo": "Paracetamol+vitamina c +clorfenamina",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "ANSOLAT",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003789",
+    "producto": "CONFORDEX 25MG CAJA X20 TABLETAS RECUBIERTAS",
+    "principio_activo": "Dexketoprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003788",
+    "producto": "CONFORDEX 50MG/2ML CAJA X10 AMPOLLAS",
+    "principio_activo": "Dexketoprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003784",
+    "producto": "CONTROL GLUCOSA TIRA X 1 ON CALL PLUS.",
+    "principio_activo": "",
+    "grupo": "DISPOSITIVOS MÉDICOS",
+    "laboratorio": "MONTGROUP SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003756",
+    "producto": "CRECIMAX PLUS FRESA SUSPENSION X 180 ML",
+    "principio_activo": "calcio, vitamina D, magnesio y zinc",
+    "grupo": "suplementos dietéticos",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003745",
+    "producto": "CRESSE ASPIRADOR NASAL ROSADO X1 UNID",
+    "principio_activo": "",
+    "grupo": "",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003743",
+    "producto": "CRESSE BIBERON DE VIDRIO ACINTURADO DECORADO 4OZ B",
+    "principio_activo": "Vidrio + tetina",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003742",
+    "producto": "CRESSE BIBERON DE VIDRIO ACINTURADO DECORADO 4OZ P",
+    "principio_activo": "Vidrio + tetina",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003741",
+    "producto": "CRESSE BIBERON DE VIDRIO ACINTURADO DECORADO 8OZ B",
+    "principio_activo": "Vidrio + tetina",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003740",
+    "producto": "CRESSE BIBERON DE VIDRIO ACINTURADO DECORADO 8OZ P",
+    "principio_activo": "Vidrio + tetina",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003739",
+    "producto": "CRESSE BIBERON DE VIDRIO DECORADO VARIADO 4OZ",
+    "principio_activo": "Vidrio + tetina",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003737",
+    "producto": "CRESSE COLONIA BABY X100ML",
+    "principio_activo": "Fragancia + alcohol y excipientes",
+    "grupo": "COLONIAS",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003733",
+    "producto": "CRESSE PAÑAL G X 58 UNIDADES",
+    "principio_activo": "Celulosa + polímeros superabsorbentes + materiales textiles",
+    "grupo": "PAÑALES/PAÑITOS",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003732",
+    "producto": "CRESSE PAÑAL M X 46 UNIDADES",
+    "principio_activo": "Celulosa + polímeros superabsorbentes + materiales textiles",
+    "grupo": "PAÑALES/PAÑITOS",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003730",
+    "producto": "CRESSE SHAMPOO BABY MANZANILLA X 200 ML",
+    "principio_activo": "Base limpiadora + extracto de manzanilla",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003728",
+    "producto": "CRESSE SHAMPOO BABY ORIGINAL X 100 ML",
+    "principio_activo": "Base limpiadora + extracto de manzanilla",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003723",
+    "producto": "CRESSE TOALLAS HUMEDAS X 240 UNID",
+    "principio_activo": "Tela no tejida + solución limpiadora/hidratante",
+    "grupo": "PAÑALES/PAÑITOS",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003711",
+    "producto": "D-CAL 1250MG CAJA X100 TABLETAS",
+    "principio_activo": "Carbonato de calcio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003702",
+    "producto": "DALAMICINA 300MG CAJA X 50 CAPSULAS",
+    "principio_activo": "Clindamicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003641",
+    "producto": "DERMACALM 1%CREMA TUBO X20GR",
+    "principio_activo": "hidrocortisona acetato al 1%",
+    "grupo": "corticosteroides",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003640",
+    "producto": "DERMAFAR CREMA 35GR",
+    "principio_activo": "óxido de zinc, vitamina A y vitamina E",
+    "grupo": "regeneradores de uso tópico",
+    "laboratorio": "INDUFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003634",
+    "producto": "DERMOSOL GEL TRANSLUCIDO SPF 60/ 70 TUBO X60 ML",
+    "principio_activo": "Filtros solares UV",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00003633",
+    "producto": "DERMOSOL PEDIATRICO SPF 100 CAJA X20 SACHET",
+    "principio_activo": "Filtros solares UV",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003632",
+    "producto": "DERMOSOL PEDIATRICO SPF 100 X60 GR",
+    "principio_activo": "Filtros solares UV",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003631",
+    "producto": "DERMOSOL POST SOLAR GEL REFRESCANTE X240ML",
+    "principio_activo": "Agentes hidratantes y calmantes",
+    "grupo": "Cuidado de la piel / Post solar",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003630",
+    "producto": "DERMOSOL VISAGE COLOR SPF 100 CAJA X20 SACHET",
+    "principio_activo": "Filtros solares + pigmentos/color",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003629",
+    "producto": "DERMOSOL VISAGE COLOR SPF 100 TUBO X60 ML",
+    "principio_activo": "Filtros solares + pigmentos/color",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003628",
+    "producto": "DERMOSOL VISAGE SPF 100 CAJA X20 SACHET",
+    "principio_activo": "Filtros solares UV",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003627",
+    "producto": "DERMOSOL VISAGE SPF 100 X60 GR",
+    "principio_activo": "Filtros solares UV",
+    "grupo": "Protector solar facial / Fotoprotector",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003609",
+    "producto": "DESPEJ 2.5 MG/5ML SABOR UVA JARABE X 60ML",
+    "principio_activo": "desloratadina",
+    "grupo": "antihistamínicos",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003598",
+    "producto": "DEXAFLAM 0.5MG/5ML X 100 ML",
+    "principio_activo": "dexametasona",
+    "grupo": "corticosteroides",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003595",
+    "producto": "DEXALOR PLUS X 100 TAB",
+    "principio_activo": "Betametasona + Dexclorfeniramina",
+    "grupo": "antialérgicos y antiinflamatorios.",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003569",
+    "producto": "DI-PROFEKET 150 MG CAJA X 10 TABLETAS",
+    "principio_activo": "Ketoprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "CAFERMA LABORATORIOS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003560",
+    "producto": "DIBALSAM CONGEST 5MG/10MG/100MGX120ML",
+    "principio_activo": "Dextrometorfano + fenilefrina + guaifenesina",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003556",
+    "producto": "DICLODOR 50MG TABLETA CJA X 100 COMPRIMIDOS",
+    "principio_activo": "Diclofenaco",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003555",
+    "producto": "DICLODOR GEL -2.32 % TUBO X50G",
+    "principio_activo": "Diclofenaco dietilamina",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003530",
+    "producto": "DICONAXX 550MG CAJA X100 TABLETAS",
+    "principio_activo": "Naproxeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003509",
+    "producto": "DIOPERINA 450MG/50MG CAJA X60 TABLETAS",
+    "principio_activo": "Diosmina + hesperidina",
+    "grupo": "VASOPROTECTOR",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003508",
+    "producto": "DIOSMIN H 500MG CAJA X60 TABLETAS",
+    "principio_activo": "Diosmina + hesperidina",
+    "grupo": "VASOPROTECTOR",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003500",
+    "producto": "DIPHADIC LONG100 MG CAJA X 100 CAPSULAS BLANDAS",
+    "principio_activo": "DICLOFENACO 100MG",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003499",
+    "producto": "DIPHANATUR 300MG CAJA X 60 CAPSULAS",
+    "principio_activo": "SILIMARINA 300MG",
+    "grupo": "hepatoprotectores",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003498",
+    "producto": "DIPHANATUR 500MG CAJA X 30 CAPSULAS",
+    "principio_activo": "SILIMARINA 500MG",
+    "grupo": "hepatoprotectores",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003497",
+    "producto": "DIPHANATUR FORTE CAJA X 100 CAPS",
+    "principio_activo": "SILIMARINA + COMPLEJO B",
+    "grupo": "hepatoprotectores",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003495",
+    "producto": "DIPHAXAMICO 1GR SOL AMPOLLA X1 UNIDAD",
+    "principio_activo": "ácido tranexámico",
+    "grupo": "antihemorrágicos",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003473",
+    "producto": "DIVELAX 5MG CAJA X100 TABLETAS",
+    "principio_activo": "bisacodilo de 5 mg",
+    "grupo": "LAXANTES",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003467",
+    "producto": "DOBESIUM 100 MCG CAJ X50 TAB DP",
+    "principio_activo": "levotiroxina sódica 100MG",
+    "grupo": "hormonas tiroideas",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003463",
+    "producto": "DOBEXILAB 500MG . CAJA X 100 CAP",
+    "principio_activo": "dobesilato cálcico (500 mg)",
+    "grupo": "antivaricosos",
+    "laboratorio": "LABOFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003462",
+    "producto": "DOL ESCLER 10MG X 100 TABLETAS",
+    "principio_activo": "baclofeno",
+    "grupo": "relajante muscular",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003447",
+    "producto": "DOLIBREX FORTE 400MG CAPSULA CJA X 100 UNID",
+    "principio_activo": "CELECOXIB 400MG",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003436",
+    "producto": "DOLO FARMEDIC PLUS CAJA X100 TABLETAS",
+    "principio_activo": "Paracetamol + ibuprofeno",
+    "grupo": "ANALGÉSICOS",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003434",
+    "producto": "DOLO NEUROFAST FORTE CAJA X200 CAPSULAS",
+    "principio_activo": "Diclofenaco + vitaminas B1, B6 y B12",
+    "grupo": "VITAMINAS / NEUROTÓNICOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003422",
+    "producto": "DOLODEL 50MG CAJA X100 TABLETAS",
+    "principio_activo": "DICLOFENACO 50MG",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003403",
+    "producto": "DOLORELIEF 150MG CAJA X30 CAPSULAS",
+    "principio_activo": "PREGABALINA 150MG",
+    "grupo": "anticonvulsivos",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003402",
+    "producto": "DOLORELIEF 75 MG CAJA X30 CAPSULAS",
+    "principio_activo": "PREGABALINA 75MG",
+    "grupo": "anticonvulsivos",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003329",
+    "producto": "DOXICLIN 100 MG X100 CAP",
+    "principio_activo": "Doxiciclina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003321",
+    "producto": "DRAVOM 50MG/5ML CAJA X1 AMPOLLA",
+    "principio_activo": "DIMENHIDRINATO 50MG",
+    "grupo": "antiemético y antivertiginoso",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003320",
+    "producto": "DRINEXIN 60MG/2ML CAJA X20 AMPOLLAS",
+    "principio_activo": "ORFENADRINA 60MG",
+    "grupo": "relajantes musculares",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003319",
+    "producto": "DROKSE 150MG/ML X 1ML",
+    "principio_activo": "acetato de medroxiprogesterona",
+    "grupo": "hormonales",
+    "laboratorio": "PAK FARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003308",
+    "producto": "DUOZAL 37.5MG CAJA X100 TABLETAS",
+    "principio_activo": "TRAMADOL + PARACETAMOL",
+    "grupo": "analgésico no opioide",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003289",
+    "producto": "EDEMACORT 30MG CAJA X10 TAB",
+    "principio_activo": "DEFLAZACORT 30MG",
+    "grupo": "corticosteroides",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003231",
+    "producto": "ENDGRIP FORTE 500MG+5MG+2MG CAJA X 50SOBRES",
+    "principio_activo": "Paracetamol + fenilefrina + clorfenamina",
+    "grupo": "ANTIPIRETICO ANALGESICO",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003197",
+    "producto": "ENTEROL 100 MG X 100 TAB",
+    "principio_activo": "Furazolidona 100MG",
+    "grupo": "ANTIBACTERIANOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003196",
+    "producto": "ENTEROL SUSPENSION X 120 ML",
+    "principio_activo": "Furazolidona",
+    "grupo": "ANTIBACTERIANOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003194",
+    "producto": "ENZO X30 CAPSULAS",
+    "principio_activo": "Alfa-galactosidasa + lactasa + proteasa + alfa-amilasa + lipasa",
+    "grupo": "DIGESTIVOS / ENZIMAS",
+    "laboratorio": "THEFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003193",
+    "producto": "ENZO4 FRASCO X 200 ML",
+    "principio_activo": "Enzimas digestivas — composición exacta por confirmar",
+    "grupo": "DIGESTIVOS / ENZIMAS",
+    "laboratorio": "THEFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003192",
+    "producto": "ENZYGESTIVO CAJA X100 TABLETAS",
+    "principio_activo": "Pancreatina + papaína + bromelina + tripsina + quimotripsina + rutina",
+    "grupo": "DIGESTIVOS / ENZIMAS",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003167",
+    "producto": "ESOPRAN 20MG CAJA X20 TABLETAS",
+    "principio_activo": "Esomeprazol",
+    "grupo": "inhibidores de la bomba de protones (IBP).",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003154",
+    "producto": "ESPASMOLIT 40MG CAJA X30 TABLETAS",
+    "principio_activo": "Butilhioscina (bromuro de hioscina)",
+    "grupo": "ESPASMODICO",
+    "laboratorio": "PHARMED CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003144",
+    "producto": "ESTAZYL 10MG CAJA X30 TABLETAS",
+    "principio_activo": "Escitalopram",
+    "grupo": "ANTIDEPRESIVOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003139",
+    "producto": "ESTUCHE CORPORAL HIERBA LUISA",
+    "principio_activo": "",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "LABORATORIOS QORY",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003068",
+    "producto": "EXCINAIL ESMALTE PARA UÑAS FRASCO X 3.5ML",
+    "principio_activo": "Amorolfina (laca antifúngica)",
+    "grupo": "ANTIFÚNGICOS",
+    "laboratorio": "PHARMARIS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003066",
+    "producto": "EXFOLIANTE DE MANOS Y PIES SCRUB POTE X 450 G",
+    "principio_activo": "",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003065",
+    "producto": "EXOFAST 250 MG CAJA X8 TABLETAS",
+    "principio_activo": "Ácido tranexámico 250 mg",
+    "grupo": "HEMOSTÁTICOS/ANTIFIBRINOLÍTICOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003064",
+    "producto": "EXPEBRON 35 MG/5 ML (EXTRACTO DE HEDERA HELIX L.)",
+    "principio_activo": "Extracto de Hedera helix",
+    "grupo": "EXPECTORANTES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003060",
+    "producto": "FALEGEN 500MG CAJA X50 CAPSULAS",
+    "principio_activo": "Cefalexina",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003044",
+    "producto": "FARMACUOL FRASCO X 130 ML",
+    "principio_activo": "Fosfato de sodio (enema)",
+    "grupo": "LAXANTES",
+    "laboratorio": "FARMASUR S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003041",
+    "producto": "FARTALGIN 250MG/5ML FRASCO X 60ML",
+    "principio_activo": "Metamizol sódico",
+    "grupo": "ANALGÉSICOS / ANTIPIRÉTICOS",
+    "laboratorio": "FARMASUR S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003038",
+    "producto": "FEBROL800MG CAJA X 100 TABLETAS",
+    "principio_activo": "Ibuprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003035",
+    "producto": "FEMRED 50MG/ML SOLUCION GOTAS ORALES SABOR VAINILL",
+    "principio_activo": "Hierro (III) polimaltosado",
+    "grupo": "ANTIANÉMICOS / HIERRO",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003033",
+    "producto": "FENAMAX 120MG CAJA X10 TABLETAS",
+    "principio_activo": "Fexofenadina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "PORTUGAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003032",
+    "producto": "FENAMAX 180MG CAJA X10 TABLETAS",
+    "principio_activo": "Fexofenadina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003031",
+    "producto": "FENAZOLE 100MG CAJA X 100 TAB REC.",
+    "principio_activo": "Fenazopiridina",
+    "grupo": "UROLÓGICOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003015",
+    "producto": "FERROPEN JARABE 50MG/5ML X 100 ML",
+    "principio_activo": "Hierro (III) polimaltosado",
+    "grupo": "ANTIANÉMICOS / HIERRO",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00003005",
+    "producto": "FINTOSITO 15MG/5ML FRASCO X120ML",
+    "principio_activo": "Dextrometorfano",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002992",
+    "producto": "FLAVOSEX 200 MG X 30 TAB RECUB",
+    "principio_activo": "Flavoxato",
+    "grupo": "UROLÓGICOS / ANTIESPASMÓDICOS",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002989",
+    "producto": "FLAZAFORTE 30 MG CAJA X10 TABLETAS",
+    "principio_activo": "Deflazacort",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002978",
+    "producto": "FLEXIOZONA 300MG 250MG CAJA X100 TAB RECUBIE",
+    "principio_activo": "Clorzoxazona + paracetamol",
+    "grupo": "relajantes musculares",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002971",
+    "producto": "FLORBACT Z CAJA X10 CAPSULAS",
+    "principio_activo": "Streptococcus faecalis + Clostridium butyricum + Bacillus mesentericus + Lactobacillus sporogenes + zinc",
+    "grupo": "PROBIÓTICOS",
+    "laboratorio": "THEFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002966",
+    "producto": "FLOXIPEN 500MG CAJA X100 CAPSULAS",
+    "principio_activo": "Antibiótico fluoroquinolónico (principio activo: confirmar en ficha del RS)",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002936",
+    "producto": "FLUTEPHARM 125 PLUS 125MCG+25MCG/DOSIS X120 DOSIS",
+    "principio_activo": "Propionato de fluticasona + salmeterol",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002935",
+    "producto": "FLUTEPHARM 250 MCG+25MCG/ FRASCO X120DOSIS",
+    "principio_activo": "Propionato de fluticasona + salmeterol",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002927",
+    "producto": "FOLIC ACID 800MCG FRASCO 60 TABLETAS FINA VIDA",
+    "principio_activo": "Ácido fólico",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "FINA VIDA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002926",
+    "producto": "FORCECAO NUTRITION POTE X 450 G D.P",
+    "principio_activo": "Mezcla nutricional según fórmula del producto",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002923",
+    "producto": "FORTAFER 50MG/5ML SOLUCION ORAL X150ML",
+    "principio_activo": "Hierro polimaltosado",
+    "grupo": "ANTIANÉMICOS / HIERRO",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002917",
+    "producto": "FOSADOX FORTE X30 CAPSULAS",
+    "principio_activo": "Fosfolípidos esenciales + vitaminas",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "THEFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002893",
+    "producto": "FUROSEMAX 20MG/2ML IM/IV CAJA X10 AMPOLLAS",
+    "principio_activo": "Furosemida",
+    "grupo": "DIURETICO",
+    "laboratorio": "DANY",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002878",
+    "producto": "GADILEX COMPOSITUM 15MG ADULTO FRASCO X120ML",
+    "principio_activo": "Dextrometorfano + clorfenamina",
+    "grupo": "ANTITUSIVOS/ANTIHISTAMÍNICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002877",
+    "producto": "GADILEX PEDIATRICO 7.5MG+0.005MG/5ML JBE 120ML",
+    "principio_activo": "Dextrometorfano + clorfenamina",
+    "grupo": "ANTITUSIVOS/ANTIHISTAMÍNICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002861",
+    "producto": "GASEOBAL 125 MG X 100 CAPSULAS",
+    "principio_activo": "Simeticona / siliconas",
+    "grupo": "DIGESTIVOS / ENZIMAS",
+    "laboratorio": "CFARMA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002857",
+    "producto": "GASEOMEDIC 80MG/ML SUSP ORAL GOTAS X15ML ANIS",
+    "principio_activo": "Simeticona",
+    "grupo": "ANTIFLATULENTO",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002856",
+    "producto": "GASEOMEDIC 80MG/ML SUSP ORAL GOTAS X15ML FRESA",
+    "principio_activo": "Simeticona",
+    "grupo": "ANTIFLATULENTO",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002845",
+    "producto": "GASTROHEPAX MAX FORTE LIPOSOMA CAPSULA CAJA X 36 U",
+    "principio_activo": "silimarina+fosfatidilcolina",
+    "grupo": "hepatoprotectores",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002843",
+    "producto": "GASTROLUD 40MG CJA X 30 TAB(PANTOPRAZOL)",
+    "principio_activo": "Pantoprazol",
+    "grupo": "inhibidores de la bomba de protones (IBP).",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002839",
+    "producto": "GAXTROX 20MG CAJA X30 CAPSULAS",
+    "principio_activo": "Omeprazol",
+    "grupo": "Inhibidores de la bomba de protones",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002838",
+    "producto": "GAXTROX 40 MG CAJA X30 CAPSULAS",
+    "principio_activo": "Omeprazol",
+    "grupo": "Inhibidores de la bomba de protones",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002833",
+    "producto": "GEMFIBROLIP 600MG X20TAB",
+    "principio_activo": "Gemfibrozilo",
+    "grupo": "HIPOLIPEMIANTES",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002830",
+    "producto": "GENSARNA LOCION TOPICA 25% X 60 ML",
+    "principio_activo": "Benzoato de bencilo",
+    "grupo": "ANTIPARASITARIOS / ESCABICIDAS",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002822",
+    "producto": "GENTAVAL 160MG X 10 AMPOLLAS",
+    "principio_activo": "Gentamicina",
+    "grupo": "ANTIBIÓTICOS AMINOGLUCÓSIDOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002786",
+    "producto": "GILSAN ACOND COLAGENO & MIEL X 500 ML",
+    "principio_activo": "Colágeno + miel",
+    "grupo": "Cuidado del cabello",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002785",
+    "producto": "GILSAN ACOND KERATINA&ARGAN OILX 500ML",
+    "principio_activo": "Proteína de queratina hidrolizada + aceite de argán",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002784",
+    "producto": "GILSAN ARGANKER X 12 AMP",
+    "principio_activo": "Fórmula capilar a base de aceite de argán",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002783",
+    "producto": "GILSAN CITRATO DE MAGNESIO PREMIUM SABOR NARANJA X",
+    "principio_activo": "Citrato de magnesio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002781",
+    "producto": "GILSAN CITRATO DE POTASIO+MAGNESIO PREMIUM SABOR L",
+    "principio_activo": "Citrato de potasio + citrato de magnesio",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002780",
+    "producto": "GILSAN COLAGENO COLAGTINA PLUS MAS BIOTINA POTE X5",
+    "principio_activo": "Colágeno hidrolizado + vitaminas C, E, A + biotina",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002779",
+    "producto": "GILSAN COLAGENO COLAGTINA PLUS MAS BIOTINA SACHET",
+    "principio_activo": "Colágeno hidrolizado + vitaminas C, E, A + biotina",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002777",
+    "producto": "GILSAN COLAGENO FLEXTRIM POTE X550G",
+    "principio_activo": "Colágeno hidrolizado + glucosamina + condroitina + vitaminas C y D",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002776",
+    "producto": "GILSAN COLAGENO FLEXTRIM SACHET CAJA X30UNID",
+    "principio_activo": "Colágeno hidrolizado + glucosamina + condroitina + vitaminas C y D",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002774",
+    "producto": "GILSAN COLAGENO SINARTROXS SABOR VAINILLA POTE X55",
+    "principio_activo": "Colágeno + componentes nutricionales para articulaciones",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002770",
+    "producto": "GILSAN CREMA FACIAL HIDRATANTE POTE X90GR",
+    "principio_activo": "Ingredientes hidratantes vitamina e",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002769",
+    "producto": "GILSAN CREMA FACIAL MULTI ACCION POTE X90GR",
+    "principio_activo": "Ingredientes hidratantes vitamina e +zinc",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002768",
+    "producto": "GILSAN FORTIMAX DHA SABOR CHOCOLATE X900G",
+    "principio_activo": "Quinua negra gelatinizada + kiwicha + soya + cacao + proteína de suero + DHA + vitaminas y minerales",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002767",
+    "producto": "GILSAN GEL CAPILAR BIOFRESH MAXIMA FIJACION X150G",
+    "principio_activo": "Base cosmética fijadora para cabello",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002766",
+    "producto": "GILSAN GEL CAPILAR BIOFRESH MAXIMA FIJACION X400G",
+    "principio_activo": "Base cosmética fijadora para cabello",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002765",
+    "producto": "GILSAN GEL CAPILAR SABILA EXTRA FUERTE POTE X 150G",
+    "principio_activo": "Base cosmética fijadora para cabello+ sabila",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002764",
+    "producto": "GILSAN GEL CAPILAR SABILA EXTRA FUERTE POTE X 400G",
+    "principio_activo": "Base cosmética fijadora para cabello+ sabila",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002763",
+    "producto": "GILSAN GENSUR ADVANCE SABOR VAINILLA X900G",
+    "principio_activo": "Soya + camu camu + colágeno hidrolizado + leche descremada + proteína de suero + sacha inchi + betaglucanos + HMB + DHA + ARA",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002762",
+    "producto": "GILSAN GLUCERVIT MAX SABOR VAINILLA POTE 900G",
+    "principio_activo": "Mezcla nutricional con vitaminas y minerales",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002761",
+    "producto": "GILSAN LEVADURA DE CERVEZA X 100 CAPS",
+    "principio_activo": "Levadura de cerveza",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002760",
+    "producto": "GILSAN OLEO NUTRITIVO KERATINA&ARGAN OIL X60 ML",
+    "principio_activo": "Queratina + aceite de argán",
+    "grupo": "CUIDADO DEL CABELLO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002759",
+    "producto": "GILSAN PLACENTA /ALOE X 12 AMP",
+    "principio_activo": "Placenta + Aloe vera",
+    "grupo": "Cuidado del cabello",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002758",
+    "producto": "GILSAN SH COLAGENO Y MIEL X 500 ML",
+    "principio_activo": "Colágeno + miel",
+    "grupo": "Cuidado del cabello",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002757",
+    "producto": "GILSAN SH KERATINA &ACEITE DE ARGAN SIN SAL 500ML",
+    "principio_activo": "Keratina hidrolizada + aceite de argán",
+    "grupo": "Cuidado del cabello",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002756",
+    "producto": "GILSAN SH SABILA Y /MULTIVITAMINAS X 500 ML",
+    "principio_activo": "Sábila + multivitaminas",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002755",
+    "producto": "GILSAN SILICONA EN GOTAS PARA EL CABELLO X30ML",
+    "principio_activo": "Siliconas / agentes acondicionadores",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002754",
+    "producto": "GILSAN VITALPRO DFS SABOR VAINILLA POTE X900GR",
+    "principio_activo": "Calostro bovino + espirulina + moringa + proteína de suero + soya",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002753",
+    "producto": "GINACABA 2% CREMA VAGINAL X 20G CON APLIC",
+    "principio_activo": "Miconazol 2%",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002750",
+    "producto": "GINGITRIOL 3MG/ML SOLUCION PARA PULVERIZACION X20M",
+    "principio_activo": "bencidamina clorhidrato",
+    "grupo": "antiinflamatorios no esteroideos",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002714",
+    "producto": "GLUCOBIOTECH 500MG CAJA X100 TABLETAS",
+    "principio_activo": "Metformina",
+    "grupo": "Antidiabético",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002713",
+    "producto": "GLUCOFERVET MSM PPS X 30 SACHET",
+    "principio_activo": "Glucosamina + condroitina + MSM",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002694",
+    "producto": "GOMITAS HIERRO VITAMINA C PROPOLIO Y FIBRA FRASCO",
+    "principio_activo": "Vitaminas/minerales y otros nutrientes según fórmula",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002691",
+    "producto": "GOMITAS MELATONINA GUMMYCS VIT X60 UNIDADES",
+    "principio_activo": "Melatonina",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004987",
+    "producto": "GOMITAS MELATONINA GUMMYCS VIT X70 UNIDADES",
+    "principio_activo": "Melatonina",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002689",
+    "producto": "GOMITAS MULTIVITAMINAS FRASCO X60 UNID",
+    "principio_activo": "Vitaminas/minerales y otros nutrientes según fórmula",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002687",
+    "producto": "GOMITAS OMEGA CHIKY KIDS FRASCO X60 UNID",
+    "principio_activo": "omega 3",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002686",
+    "producto": "GOMITAS PROBIOTICOS GYMMYCS VIT FRASCO X60 UNID",
+    "principio_activo": "probioticos",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002683",
+    "producto": "GOMITAS VINAGRE MANZANA GUMMYCS VIT FRASCO X60 UNI",
+    "principio_activo": "vinagre de manzana",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002682",
+    "producto": "GOMITAS ZINC+BETAGLUCANO+VITAMINA C FRASCO X 60 UN",
+    "principio_activo": "zinc+betaglucano+vitamina c",
+    "grupo": "VITAMINICO",
+    "laboratorio": "AMXIAL FARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002678",
+    "producto": "GOTABIOTIC PLUS SOLF.OFT X 5ML",
+    "principio_activo": "Dexametasona + tobramicina",
+    "grupo": "ANTIBIÓTICOS + CORTICOIDES OFTÁLMICOS",
+    "laboratorio": "MEGALABS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002676",
+    "producto": "GOXICARDIN (BISOPROLOL) 5MG CAJA X 28 TAB.",
+    "principio_activo": "Bisoprolol",
+    "grupo": "BETABLOQUEANTES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002670",
+    "producto": "GRAVEX 50MG CAJA X50TABLETAS",
+    "principio_activo": "Dimenhidrinato",
+    "grupo": "ANTIEMÉTICOS / ANTIVERTIGINOSOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002663",
+    "producto": "GRIPA C JUNIOR X 100",
+    "principio_activo": "Paracetamol + fenilefrina + clorfenamina",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "MEDIFARMA CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002660",
+    "producto": "GRIPAFOR NF CAJA X50 SOBRES",
+    "principio_activo": "Paracetamol + dextrometorfano + fenilefrina + clorfenamina",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002656",
+    "producto": "GRIPANOT CAJA X100 CAPSULAS BLANDAS",
+    "principio_activo": "Paracetamol + dextrometorfano + fenilefrina",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "CAFERMA LABORATORIOS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002636",
+    "producto": "GYNOTERONA 200MG CAJA X30 CAPSULAS",
+    "principio_activo": "Progesterona",
+    "grupo": "HORMONALES / GINECOLÓGICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002635",
+    "producto": "GYVAXOL DUO 500MG 100 00UI CAJA X10 OVULOS",
+    "principio_activo": "Nistatina + metronidazol",
+    "grupo": "ANTIFÚNGICOS / GINECOLÓGICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002564",
+    "producto": "HELFFIN MIGRAÑA CAJA X150 TABLETAS",
+    "principio_activo": "Ácido acetilsalicílico + Paracetamol + Cafeína",
+    "grupo": "Analgésico / antimigrañoso",
+    "laboratorio": "DRONNVELS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002561",
+    "producto": "HEMORROGINOL CAJA X 90 CAPSULAS",
+    "principio_activo": "Ruscus aculeatus + vitamina C + lactobacillus sporogenes (fórmula antihemorroidal)",
+    "grupo": "ANTIHEMORROIDALES",
+    "laboratorio": "CAFERMA OTC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002560",
+    "producto": "HEMORROLABS CAJA X100 TABLETAS MASTICABLES",
+    "principio_activo": "Fórmula antihemorroidal; composición exacta según presentación",
+    "grupo": "ANTIHEMORROIDALES",
+    "laboratorio": "AJRLABS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002559",
+    "producto": "HEMZON CAJA X100 TAB MASTICABLES",
+    "principio_activo": "Lactobacillus sporogenes + Ruscus aculeatus + vitamina C",
+    "grupo": "ANTIHEMORROIDALES",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002541",
+    "producto": "HEPVIR 5% TUBO 10 GR",
+    "principio_activo": "Aciclovir",
+    "grupo": "ANTIVIRAL",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002540",
+    "producto": "HERBACONTRAX PARCHE SOBRE X3 UNIDADES",
+    "principio_activo": "Extractos vegetales de uso tópico",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002516",
+    "producto": "HIERRONIM 100MG/5ML IV CAJA X 5 AMPOLLAS",
+    "principio_activo": "Hierro sacarosa",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00002514",
+    "producto": "HIERRONIM HP 50MG/ML SOLUCION ORAL FRASCO X20ML",
+    "principio_activo": "Hierro polimaltosado",
+    "grupo": "ANTIANÉMICOS / HIERRO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002513",
+    "producto": "HIERRONIM HP100MG/5ML CAJA X5 AMPOLLAS BEBIBLES",
+    "principio_activo": "Hierro polimaltosado",
+    "grupo": "ANTIANÉMICOS / HIERRO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002491",
+    "producto": "HIRU-HEMAFLAM FORTE X 20GR",
+    "principio_activo": "Poliéster mucopolisacárido del ácido sulfúrico 0.445%",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002475",
+    "producto": "HISTACLORF (CLORFENAMINA) 4MG X 100 TABLETAS",
+    "principio_activo": "Clorfenamina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002461",
+    "producto": "HORTODYL UNGUENTO X 30 GR",
+    "principio_activo": "Extracto de Ruscus aculeatus (rusco)",
+    "grupo": "Antivaricosos y antihemorroidales tópicos",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002424",
+    "producto": "IBUCALM FORTE 400MG CAJA X100 CAPSULAS",
+    "principio_activo": "Ibuprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00004988",
+    "producto": "IBUCORDRALAN FORTE CAJA X100 TABLETAS",
+    "principio_activo": "Ibuprofeno + paracetamol (fórmula combinada)",
+    "grupo": "ANALGÉSICOS/ANTIINFLAMATORIOS",
+    "laboratorio": "ANSOLAT",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002400",
+    "producto": "ILICIT SIN AMONIACO CAJA 1.0 NEGRO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002399",
+    "producto": "ILICIT SIN AMONIACO CAJA 2.8 NEGRO AZULADO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002398",
+    "producto": "ILICIT SIN AMONIACO CAJA 3.0 CASTAÑO OSCURO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002397",
+    "producto": "ILICIT SIN AMONIACO CAJA 4.0 CASTAÑO MEDIO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002396",
+    "producto": "ILICIT SIN AMONIACO CAJA 5 20 CIRUELA",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002395",
+    "producto": "ILICIT SIN AMONIACO CAJA 5.0 CASTAÑO CLARO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002394",
+    "producto": "ILICIT SIN AMONIACO CAJA 6.0 RUBIO OSCURO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002393",
+    "producto": "ILICIT SIN AMONIACO CAJA 6.1 RUBIO OSCURO CENIZO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002390",
+    "producto": "ILICIT SIN AMONIACO CAJA 7.1 RUBIO MEDIO CENIZO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002388",
+    "producto": "ILICIT SIN AMONIACO CAJA 8.0 RUBIO CLARO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002387",
+    "producto": "ILICIT SIN AMONIACO CAJA 8.1 RUBIO CLARO CENIZO",
+    "principio_activo": "Colorantes capilares sin amoníaco",
+    "grupo": "TINTE CABELLO",
+    "laboratorio": "BRANDISCO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002379",
+    "producto": "INMUNO D3 2000UI CAJA X 60 CAPSULAS",
+    "principio_activo": "Colecalciferol (vitamina D3)",
+    "grupo": "VITAMINAS LIPOSOLUBLE",
+    "laboratorio": "FINA VIDA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002364",
+    "producto": "IRRICOLINA 30MG CAJA X30 TABLETAS",
+    "principio_activo": "Nimodipino 30 mg",
+    "grupo": "Bloqueante de los canales de calcio",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002350",
+    "producto": "ISOCUTIS 20MG CAJA X10 TABLETAS",
+    "principio_activo": "Isotretinoína",
+    "grupo": "DERMATOLÓGICOS / RETINOIDES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002319",
+    "producto": "ITRAPHARM 100MG CAJA X100 CAPSULA",
+    "principio_activo": "Itraconazol",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002311",
+    "producto": "JABON CONCHA DE NACAR X 80G LA COOPER",
+    "principio_activo": "conchA DE NACAR",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002293",
+    "producto": "JAQUESIL FORTE 500MG 65MG CAJA X 50 SOBRES",
+    "principio_activo": "Paracetamol + cafeína",
+    "grupo": "ANALGÉSICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002292",
+    "producto": "JAQUESIL FORTE 500MG 65MG CAJA X100 TABLETAS",
+    "principio_activo": "Paracetamol + cafeína",
+    "grupo": "ANALGÉSICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002291",
+    "producto": "JAQUEVIT B1 CAJA X10 TABLETAS",
+    "principio_activo": "Tiamina (vitamina B1)",
+    "grupo": "VITAMINAS DEL COMPLEJO B",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002285",
+    "producto": "JERINGA 3ML/CC 21GX 1 1/2\" CAJA X100 UNID ALFYMEDI",
+    "principio_activo": "",
+    "grupo": "DISPOSITIVOS MÉDICOS",
+    "laboratorio": "MM ALFYMEDIX",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002215",
+    "producto": "KETOCLEAR 2% FRASCO X 100 ML",
+    "principio_activo": "Ketoconazol",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002207",
+    "producto": "KETOMAX 60MG/2ML I.M./I.V CAJA X1 AMPOLLA",
+    "principio_activo": "Ketorolaco",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002206",
+    "producto": "KETONIL 2% KETOKONAZ 2G/100MLCHAMPU X130ML",
+    "principio_activo": "Ketoconazol",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002204",
+    "producto": "KETOPHARM 60MG CAJA X10 AMPOLLAS",
+    "principio_activo": "Ketorolaco",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002203",
+    "producto": "KETOPRODEL 200MG X30 CAPSULAS",
+    "principio_activo": "Ketoprofeno",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002186",
+    "producto": "KETRAGESICO FORTE 2.5 % GEL X50GR",
+    "principio_activo": "Ketoprofeno 2.5%",
+    "grupo": "ANTIINFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002151",
+    "producto": "KRYTZINA 5/5ML JBE X60 ML",
+    "principio_activo": "Cetirizina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002150",
+    "producto": "L GENTA 0.3%/FRASCO X 5ML",
+    "principio_activo": "Gentamicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002146",
+    "producto": "LA COOPER GEL INTIME X150ML",
+    "principio_activo": "GEL INTIMO",
+    "grupo": "GEL INTIMO",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002101",
+    "producto": "LANZO DEL 30 MG CAJA X 30 CAPSULAS",
+    "principio_activo": "Lansoprazol",
+    "grupo": "inhibidores de la bomba de protones (IBP).",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002091",
+    "producto": "LAXOVEN ENEMA (16G+6G) FRASCO X 120 ML",
+    "principio_activo": "Fosfato de sodio + fosfato de potasio",
+    "grupo": "LAXANTES",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002089",
+    "producto": "LAXULOSA SOL FCO X 120 ML",
+    "principio_activo": "Lactulosa",
+    "grupo": "LAXANTES",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002088",
+    "producto": "LEA EFTER SHAVE BALSAMO 3EN1 X75 ML",
+    "principio_activo": "No aplica (cosmético para afeitado)",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "LEA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002071",
+    "producto": "LERGYNN PLUS 5 MG + 120 MG (CETIRIZINA+PSEUDOEFEDR",
+    "principio_activo": "Cetirizina + pseudoefedrina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002060",
+    "producto": "LEVOCTRIM FORTE 750MG CAJA X7TAB",
+    "principio_activo": "Levofloxacino",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002047",
+    "producto": "LEVOLERGYNN 5MG CAJA X100 TABLETAS",
+    "principio_activo": "Levocetirizina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002045",
+    "producto": "LEVOTIRIZIN ALLERGY 5MG CAJA X100TABLETAS",
+    "principio_activo": "Levocetirizina",
+    "grupo": "ANTIHISTAMINICO",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002041",
+    "producto": "LEXIFER 5% TUBO X 5 GR",
+    "principio_activo": "Aciclovir",
+    "grupo": "ANTIVIRALES TÓPICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002035",
+    "producto": "LIBRALER 2.5MG/5ML JARABE X60 ML",
+    "principio_activo": "Levocetirizina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002034",
+    "producto": "LIBRETOS 10MG+100MG/5MLSOLUCION ORAL SABOR CEREZA",
+    "principio_activo": "Dextrometorfano + guaifenesina",
+    "grupo": "ANTITUSIVOS / EXPECTORANTES",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002017",
+    "producto": "LIPCLOVIR 200MG CAJA X100 TABLETAS",
+    "principio_activo": "Aciclovir",
+    "grupo": "ANTIVIRAL",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002015",
+    "producto": "LIPCOBEL 0.05 CREMA X30 GR",
+    "principio_activo": "Clobetasol 0.05%",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00002003",
+    "producto": "LIPTRAXEN 250 X 10 TABLETAS",
+    "principio_activo": "Ácido tranexámico 250 mg",
+    "grupo": "HEMOSTÁTICOS/ANTIFIBRINOLÍTICOS",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001966",
+    "producto": "LOREXONA PLUS X 60 TABLETAS",
+    "principio_activo": "Betametasona + dexclorfeniramina",
+    "grupo": "CORTICOIDES + ANTIHISTAMÍNICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001964",
+    "producto": "LOSADEL 50MG CAJA X50 TABLETAS",
+    "principio_activo": "Losartán",
+    "grupo": "ANTIHIPERTENSIVO",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001947",
+    "producto": "LUBEK 500MG CAJA X50TABLETAS",
+    "principio_activo": "Paracetamol — confirmar ficha técnica",
+    "grupo": "ANALGÉSICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001946",
+    "producto": "LUBRI CLICK GEL LUBRICACION INTIMA CAJA X50 SOBRES",
+    "principio_activo": "",
+    "grupo": "LUBRICANTES SEXUALES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001945",
+    "producto": "LUBRI CLICK GEL LUBRICACION INTIMA TUBO X120ML",
+    "principio_activo": "",
+    "grupo": "LUBRICANTES SEXUALES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001935",
+    "producto": "MACROKID XR CAJA X 30CAPSULAS",
+    "principio_activo": "Nitrofurantoína",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001927",
+    "producto": "MAFLUX BALSAMICO NF 800MG/160MG/250MGFRACO 100ML",
+    "principio_activo": "Sulfametoxazol + trimetoprima + bromhexina (fórmula balsámica)",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001926",
+    "producto": "MAFLUX FORTE CAJA X 100 TABLETAS",
+    "principio_activo": "Sulfametoxazol 800 mg + trimetoprima 160 mg",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001925",
+    "producto": "MAFLUX PEDIATRICO 200MG 40MG SUSP X 60ML",
+    "principio_activo": "Sulfametoxazol 200 mg + trimetoprima 40 mg/5 mL",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001917",
+    "producto": "MAGNESIO COMPLEX CAJA X30 EFERVECENTES",
+    "principio_activo": "Magnesio (sales de magnesio)",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001883",
+    "producto": "MAX LEVEL HUANARPO MACHO FRASCO X100 CAPSULAS",
+    "principio_activo": "Huanarpo macho + maca negra + zarzaparrilla + L-arginina + zinc",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001881",
+    "producto": "MAX VISION FRASCO X100 CAPSULAS",
+    "principio_activo": "Fórmula de soporte visual (vitaminas/minerales según producto)",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001879",
+    "producto": "MAXIS 10MG X100 TAB",
+    "principio_activo": "Ketorolaco",
+    "grupo": "ANALGÉSICOS/ANTIINFLAMATORIOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001868",
+    "producto": "MEDILGINA 500MG CAJA X100 TABLETAS",
+    "principio_activo": "Metamizol sódico",
+    "grupo": "ANALGÉSICOS / ANTIPIRÉTICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001867",
+    "producto": "MEDILGINA 500MG/MLSOLUCION ORAL GOTAS X10ML",
+    "principio_activo": "Metamizol sódico",
+    "grupo": "ANALGÉSICOS / ANTIPIRÉTICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001864",
+    "producto": "MEDITIL B CREMA TUBO X 20G",
+    "principio_activo": "Clotrimazol + gentamicina + betametasona",
+    "grupo": "DERMATOLÓGICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001840",
+    "producto": "MEMOVITAL B12 X 120ML",
+    "principio_activo": "Vitamina B12 + vitamina B1 + glicerofosfatos de magnesio/sodio/potasio",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "INDUFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001835",
+    "producto": "MENSILLE 25MG/5 MG 1 AMPOLLA CON JERINGA PRELLENAD",
+    "principio_activo": "Acetato de medroxiprogesterona 25 mg + cipionato de estradiol 5 mg",
+    "grupo": "ANTICONCEPTIVOS HORMONALES",
+    "laboratorio": "CARNOTR LABORATORIOS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001815",
+    "producto": "METAPLUS F 1000MG CAJA X30 TABLETAS",
+    "principio_activo": "Metformina",
+    "grupo": "ANTIDIABÉTICOS",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001813",
+    "producto": "METCOFAGE 850MG CAJA X100 TABLETAS",
+    "principio_activo": "Metformina",
+    "grupo": "ANTIDIABÉTICOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001811",
+    "producto": "METEOR FLAT 80MG CAJA X120 TABLETAS MASTICABLES",
+    "principio_activo": "Simeticona",
+    "grupo": "ANTIFLATULENTO",
+    "laboratorio": "GENERION CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001797",
+    "producto": "METOTREX 2.5 MG X 100 TABLETAS",
+    "principio_activo": "Metotrexato",
+    "grupo": "ANTIFLAMATORIO ANTIRREUMATICO",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001795",
+    "producto": "METRADOL 100MG/5ML SUSPENCION ORAL FRASCO X60 ML",
+    "principio_activo": "Ibuprofeno 100 mg/5 mL",
+    "grupo": "ANALGÉSICOS/ANTIINFLAMATORIOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001794",
+    "producto": "METROBAC 500MG CAJA X10 UVULOS",
+    "principio_activo": "Metronidazol",
+    "grupo": "MEDICINAS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001791",
+    "producto": "METROFLAXYL 500MG CAJA X20 TABLETAS",
+    "principio_activo": "Metronidazol",
+    "grupo": "LAXANTES",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001784",
+    "producto": "MIALERGAN 10MG/ML CAJA X20 AMPOLLAS",
+    "principio_activo": "Clorfenamina 10 mg/mL",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001782",
+    "producto": "MICO DERMASAN 1% CREMA X20 GR.",
+    "principio_activo": "Clotrimazol 1%",
+    "grupo": "Antifúngico / Antimicótico",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001781",
+    "producto": "MICOFLUZOL 150MG CAJA X100 CAPSULAS",
+    "principio_activo": "Fluconazol",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001766",
+    "producto": "MIGRADEL X 50SOBRES X 2",
+    "principio_activo": "Paracetamol + ácido acetilsalicílico + cafeína",
+    "grupo": "ANTIMIGRAÑOSOS/ANALGÉSICOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001765",
+    "producto": "MIGRATERALGEX 250MG+25OMG+65MGX 50 SOBREX2UNID",
+    "principio_activo": "Paracetamol + ácido acetilsalicílico + cafeína",
+    "grupo": "ANALGÉSICOS",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001756",
+    "producto": "MIODEL RELAX NF X 100 TAB",
+    "principio_activo": "Paracetamol + orfenadrina",
+    "grupo": "Analgésico + relajante muscular",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001750",
+    "producto": "MIOTERALGEX RELAX 450MG+35MG CAJA X100 TABLETAS",
+    "principio_activo": "Paracetamol + orfenadrina",
+    "grupo": "Analgésico + relajante muscular",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001746",
+    "producto": "MISOTRIM FORTE CAJA X100 TABLETAS",
+    "principio_activo": "Sulfametoxazol 800 mg + trimetoprima 160 mg",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "DISTRIBUIDORA LAS AMERICAS CONSUMO",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001745",
+    "producto": "MISSTADOL 500MG CAJA X100 TABLETAS",
+    "principio_activo": "Ácido mefenámico 500 mg",
+    "grupo": "ANALGÉSICOS/ANTIINFLAMATORIOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001744",
+    "producto": "MISULONA 200MG CAPSULA BLANDA CJA X 10 UNID",
+    "principio_activo": "Progesterona 200 mg",
+    "grupo": "HORMONALES",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001743",
+    "producto": "MIXYDAY 1.5MG CAJA X 1 TABLETA",
+    "principio_activo": "Levonorgestrel",
+    "grupo": "ANTICONCEPTIVOS DE EMERGENCIA",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001732",
+    "producto": "MOCO JURASSICO GEL ULTRA FUERTE POTE X400GR",
+    "principio_activo": "",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001727",
+    "producto": "MOMECORT F 0.1% X 15GR",
+    "principio_activo": "Mometasona furoato",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001726",
+    "producto": "MOMENT H36 20MG CAJA X4 TABLETAS",
+    "principio_activo": "Por confirmar en ficha técnica",
+    "grupo": "MEDICINAS - POR CONFIRMAR",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001718",
+    "producto": "MONILYA 2% CREMA VAGINAL X 20 GR",
+    "principio_activo": "Miconazol 2%",
+    "grupo": "ANTIFÚNGICOS GINECOLÓGICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001694",
+    "producto": "MUCOCETIL JARABE 100MG/5ML X 120 ML",
+    "principio_activo": "Acetilcisteína",
+    "grupo": "MUCOLÍTICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001692",
+    "producto": "MUCOKILL 400MG CAJA X20 TABLETAS",
+    "principio_activo": "Acetilcisteína",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001688",
+    "producto": "MUCOTINA 200MG CAJA X30 SOBRES",
+    "principio_activo": "Acetilcisteína",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001684",
+    "producto": "MUCOTRIM FORTE 30MG/5ML FRASCO X100ML",
+    "principio_activo": "Ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001683",
+    "producto": "MUCOTRIM GOTAS 7.5MG/ML X 20 ML",
+    "principio_activo": "Ambroxol",
+    "grupo": "MUCOLITICO EXPECTORANTE",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001666",
+    "producto": "MULTIFLORA PLUS CAJA X30 CAPSULAS",
+    "principio_activo": "Mezcla de probióticos",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "MEGALABS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001664",
+    "producto": "MULTIPIEL UNGUENTO TUBO X15 G",
+    "principio_activo": "Probióticos + vitaminas A, C y E",
+    "grupo": "Probióticos / Restauradores de la flora intestinal",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001662",
+    "producto": "MUPIROBAC 2% CREMA X15G",
+    "principio_activo": "Mupirocina",
+    "grupo": "INFECCIONES DE LA PIEL",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001661",
+    "producto": "MUPIROBAC 2% UNGUENTO X15G",
+    "principio_activo": "Mupirocina",
+    "grupo": "INFECCIONES DE LA PIEL",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001621",
+    "producto": "NAUSI CALM 24MG/5ML X 60 ML JBE",
+    "principio_activo": "Dimenhidrinato",
+    "grupo": "ANTIEMÉTICOS",
+    "laboratorio": "FARVET",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001618",
+    "producto": "NAYFLEX MUJER 200 MG CJA X 100 CAP BL.",
+    "principio_activo": "Ibuprofeno 200 mg",
+    "grupo": "ANALGÉSICOS/ANTIINFLAMATORIOS",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001615",
+    "producto": "NEBLIX 5 MG CAJA X30 COMPRIMIDOS",
+    "principio_activo": "Nebivolol",
+    "grupo": "BETABLOQUEANTES",
+    "laboratorio": "QUIMFA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001595",
+    "producto": "NEOFENAC 75MG/3ML X 20 AMPOLLAS",
+    "principio_activo": "Diclofenaco",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001591",
+    "producto": "NEONYPOL OVULOS X 12 CAPS BLANDAS",
+    "principio_activo": "Neomicina + nistatina + polimixina B",
+    "grupo": "ANTIFÚNGICOS/ANTIBIÓTICOS VAGINALES",
+    "laboratorio": "DROPESAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001551",
+    "producto": "NEOSIL CREMA 1% TUBO X 15G",
+    "principio_activo": "Terbinafina 1%",
+    "grupo": "ANTIFÚNGICOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001529",
+    "producto": "NEUROFAST B12 20.000MCG/2ML CAJA X1 AMPOLLA +JERIN",
+    "principio_activo": "Cianocobalamina 20000",
+    "grupo": "VITAMINAS / NEUROTÓNICOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001528",
+    "producto": "NEUROFOR 5000 TRIPLE CAJA X 10 AMPOLLAS",
+    "principio_activo": "Vitaminas B1 + B6 + B12",
+    "grupo": "VITAMINAS / NEUROTÓNICOS",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001527",
+    "producto": "NEUROMINS CAJA X100CAPSULAS",
+    "principio_activo": "Tiamina + piridoxina + cianocobalamina",
+    "grupo": "VITAMINAS B / ANTINEURÍTICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001526",
+    "producto": "NEUROPRES 5000MG CAJA X 60 TAB",
+    "principio_activo": "Vitaminas B1 + B6 + B12",
+    "grupo": "VITAMINAS DEL COMPLEJO B",
+    "laboratorio": "PHARMED CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001489",
+    "producto": "NISACORTEC 20 MG CAJA X 120 TAB",
+    "principio_activo": "Prednisona 20 mg",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001488",
+    "producto": "NISACORTEC 50 MG CAJA X 50 TAB",
+    "principio_activo": "Prednisona 50 mg",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001483",
+    "producto": "NISTAFEM OVULOS CAJA X 10 UNID",
+    "principio_activo": "Nistatina + metronidazol",
+    "grupo": "ANTIFÚNGICOS / GINECOLÓGICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001480",
+    "producto": "NISTAMUG (NISTATINA) 100 000 UI/ML X 12 ML",
+    "principio_activo": "Nistatina",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001423",
+    "producto": "NOALERGYM CB 10MG CAJA X100 CAPSULAS",
+    "principio_activo": "Loratadina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001407",
+    "producto": "NORALFATE 1G/5ML FRASCO X200ML",
+    "principio_activo": "Sucralfato",
+    "grupo": "ULCERA GASTRICA",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001406",
+    "producto": "NORIFAN AMPOLLA X 1 ML",
+    "principio_activo": "Algestona acetofenida + Estradiol enantato",
+    "grupo": "Anticonceptivos hormonales",
+    "laboratorio": "PAK FARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001405",
+    "producto": "NORROIDEX POMADA VIA RECTAL TUBO X 30 GR",
+    "principio_activo": "Hidrocortisona + cincocaína",
+    "grupo": "ANTIHEMORROIDALES",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001403",
+    "producto": "NORXABAN 20MG CAJA X30 TABLETAS",
+    "principio_activo": "Rivaroxabán",
+    "grupo": "ANTICOAGULANTE",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001378",
+    "producto": "NOTIPHARM CREMA VIA TOPICA TUBO X20 GR",
+    "principio_activo": "Clotrimazol + gentamicina + betametasona",
+    "grupo": "DERMATOLÓGICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001372",
+    "producto": "NOVOGLUBIN 4MG CAJA X20 COMPRIMIDOS",
+    "principio_activo": "Glimepirida 4 mg",
+    "grupo": "ANTIDIABÉTICOS",
+    "laboratorio": "QUIMFA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001334",
+    "producto": "OMEGA 3 1000(FISH-OIL)CAJA X 30 CAPSULAS",
+    "principio_activo": "Aceite de pescado (omega-3 EPA/DHA)",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001329",
+    "producto": "OMEPRALIV 20MG CAJAX 28 CAPSULAS LIB RETARDADA",
+    "principio_activo": "Omeprazol",
+    "grupo": "inhibidores de la bomba de protones (IBP).",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001322",
+    "producto": "ONICAX 500MG CAJA X100 TABLETAS",
+    "principio_activo": "Ciprofloxacino 500 mg",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001305",
+    "producto": "ORAMIN F X 30 CAPS BLANDAS",
+    "principio_activo": "Multivitamínico con minerales + ginseng + jalea real",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "DROPESAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001300",
+    "producto": "ORFELAX 100MG CAJA X100 TABLETAS",
+    "principio_activo": "Orfenadrina citrato 100 mg",
+    "grupo": "RELAJANTES MUSCULARES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001289",
+    "producto": "ORIFLOW 0.4MG X 30 CAPSULAS",
+    "principio_activo": "Tamsulosina",
+    "grupo": "PROSTATA",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001288",
+    "producto": "ORIFLOW DUO /PRO 0.5MG+0.4MG X30TAB",
+    "principio_activo": "Dutasterida + tamsulosina",
+    "grupo": "inhibidores de la 5-alfa reductasa (tipo II).",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001281",
+    "producto": "OTIDOL GOTAS X 5 ML.",
+    "principio_activo": "Neomicina + polimixina B + furaltadona + fluorhidrocortisona + lidocaína",
+    "grupo": "OTOLÓGICOS",
+    "laboratorio": "LANSIER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001279",
+    "producto": "OTOMICIN NF GOTAS OTICAS X 10 ML",
+    "principio_activo": "Ciprofloxacino + hidrocortisona",
+    "grupo": "OTOLÓGICOS",
+    "laboratorio": "INDUFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001231",
+    "producto": "PALTIBRON K&D SABOR FUTTI FRUTTI FRASCO X 180ML",
+    "principio_activo": "Extractos vegetales + magnesio + vitamina C + zinc (según fórmula)",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00001178",
+    "producto": "PANTODERM CREMA TUBO X30 MG",
+    "principio_activo": "Dexpantenol",
+    "grupo": "DERMATOLÓGICOS",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001147",
+    "producto": "PARASITROL 100MG/5MLCAJA X2FRASCOS DE20ML",
+    "principio_activo": "Albendazol",
+    "grupo": "Antiparasitario",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001139",
+    "producto": "PARIS 5MG X 28 TABLE. RECUBIERTAS",
+    "principio_activo": "Escitalopram",
+    "grupo": "ANTIDEPRESIVOS",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001113",
+    "producto": "PEMBRIMAX 250MG/5MLPOLVO PARA SUSP FRASCO X60 ML",
+    "principio_activo": "Amoxicilina 250 mg/5 mL",
+    "grupo": "Antibiótico",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001093",
+    "producto": "PERIPHARM 2MG CAJA X100 TABLETAS",
+    "principio_activo": "Loperamida",
+    "grupo": "ANTIDIARREICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001089",
+    "producto": "PHARMAPRED 50 MG X 100 TAB",
+    "principio_activo": "Prednisona",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "INTIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001083",
+    "producto": "PIDOGREL- N 75MG CAJA X30 TABLETAS",
+    "principio_activo": "Clopidogrel",
+    "grupo": "ANTIAGREGANTE PLAQUETARIOS",
+    "laboratorio": "NORDICPHARMACEUTICAL  SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001059",
+    "producto": "PLENYLIFE 100MG CAJA X 4 UNIDADES",
+    "principio_activo": "Sildenafilo",
+    "grupo": "DISFUNCIÓN ERÉCTIL",
+    "laboratorio": "BIOS PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001058",
+    "producto": "PLIDAMEDIC COMPUESTO 10MG+500MG CAJA X100 TABLETAS",
+    "principio_activo": "Metoclopramida + paracetamol",
+    "grupo": "ANTIPIRETICO ANALGESICO",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001030",
+    "producto": "POSULEN X 6 OVULOS",
+    "principio_activo": "Policresuleno 90 mg",
+    "grupo": "GINECOLÓGICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001028",
+    "producto": "POWERVIT C SABOR NARANJA CAJA X30 SOBRES",
+    "principio_activo": "Vitamina C",
+    "grupo": "VITAMINICO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00001005",
+    "producto": "PREGNATAL CAJA X30 CAPSULAS BLANDAS",
+    "principio_activo": "Multivitaminas + minerales",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000945",
+    "producto": "PROMOCION (KIRUFRESH 3 X10 SOLES )",
+    "principio_activo": "",
+    "grupo": "",
+    "laboratorio": "GLANA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000935",
+    "producto": "PROSTACALM 0.4MG CAJA X30 CAPSULAS",
+    "principio_activo": "Tamsulosina",
+    "grupo": "PROSTATA",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000933",
+    "producto": "PROSTAMICIL 320MG CAJA X30 CAPSULAS",
+    "principio_activo": "Extracto de Serenoa repens",
+    "grupo": "UROLÓGICOS / PRÓSTATA",
+    "laboratorio": "DIPHASAC S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000860",
+    "producto": "RAQUIOL-D3 600 000 UI FRACO X60 ML",
+    "principio_activo": "Colecalciferol (vitamina D3)",
+    "grupo": "VITAMINAS LIPOSOLUBLE",
+    "laboratorio": "CFARMA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000844",
+    "producto": "REJUVENECE DESMAQUILLANTE BIFASICO EXTRACTO DE ROS",
+    "principio_activo": "Extracto de rosas + agentes limpiadores y acondicionadores",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000843",
+    "producto": "REJUVENESE PLUS CREMA Q10 CAJA X20 SACHET",
+    "principio_activo": "Coenzima Q10 + agentes hidratantes y emolientes",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000841",
+    "producto": "REJUVENESE PLUS JABON ACIDO HIALURONICO X80GR",
+    "principio_activo": "Ácido hialurónico + agentes limpiadores",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "PER LA COOPER",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000839",
+    "producto": "RENOVAT BABY GOTAS X 5ML",
+    "principio_activo": "Lactobacillus reuteri (probiótico)",
+    "grupo": "PROBIÓTICOS",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000828",
+    "producto": "RESTORFLORA BC CAJA X10 AMP BEBIBLES",
+    "principio_activo": "Bacillus clausii / probióticos — confirmar presentación",
+    "grupo": "PROBIÓTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000821",
+    "producto": "REUMAFLAR CX 200MG CAJA X100 CAPSULAS",
+    "principio_activo": "Celecoxib",
+    "grupo": "ANTIINFLAMATORIOS",
+    "laboratorio": "LAFARMED",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000816",
+    "producto": "REUMODOL FORTE POTE X 100 G",
+    "principio_activo": "Salicilato de metilo + mentol",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "LAFARPE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000815",
+    "producto": "REUMODOL FORTE POTE X 30 G",
+    "principio_activo": "Salicilato de metilo + mentol",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "LAFARPE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000814",
+    "producto": "REUMOFLEX FORTE UNG.X 100 GR.",
+    "principio_activo": "Salicilato de metilo + mentol",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "LAFARPE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000813",
+    "producto": "REUMOFLEX FORTE UNGUENTO X 45 GR",
+    "principio_activo": "Salicilato de metilo + mentol",
+    "grupo": "ANALGÉSICOS TÓPICOS",
+    "laboratorio": "LAFARPE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000755",
+    "producto": "RINOMAR BABIES ISOTËNICO PULV. NASAL 30 ML",
+    "principio_activo": "Cloruro de sodio (solución salina isotónica)",
+    "grupo": "SOLUCIONES NASALES",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000754",
+    "producto": "RINOMAR HIPERTONICO SOLUCION NASAL X30 ML",
+    "principio_activo": "Cloruro de sodio (solución salina hipertónica)",
+    "grupo": "SOLUCIONES NASALES",
+    "laboratorio": "BONAPHARM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000746",
+    "producto": "ROSADOL 500MG CAJA X30 TABLETAS",
+    "principio_activo": "Paracetamol",
+    "grupo": "ANTIPIRETICO ANALGESICO",
+    "laboratorio": "BIOTECH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000744",
+    "producto": "ROSUMAX 10MG CAJA X30 TABLETAS",
+    "principio_activo": "Rosuvastatina",
+    "grupo": "HIPOLIPEMIANTES",
+    "laboratorio": "CSP LIFESCIENCES PERU S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000740",
+    "producto": "ROXTIL B CREMA X10 GR",
+    "principio_activo": "Betametasona + clotrimazol +gentamicina",
+    "grupo": "DERMATOLÓGICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000736",
+    "producto": "RYLAMAX 1GR POLVO SOLUCION INYECTAB X1 VIAL",
+    "principio_activo": "Ceftriaxona 1 g",
+    "grupo": "ANTIBIÓTICOS",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000735",
+    "producto": "RYNA-DEL 5 MG X 100 TAB",
+    "principio_activo": "Desloratadina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00000722",
+    "producto": "SALBUTRIN 100MCG/DOSIS AEROSOL X200 DOSIS",
+    "principio_activo": "Salbutamol",
+    "grupo": "BRONCODILATADORES",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000714",
+    "producto": "SAMAY SLEEP GELS 50MG CAJA X50 CAPSULAS",
+    "principio_activo": "Melatonina",
+    "grupo": "SUPLEMENTO / SUEÑO",
+    "laboratorio": "INTIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000619",
+    "producto": "SILDENAFILO 100MG CAJA X20 TABLETAS GABBLAN",
+    "principio_activo": "Sildenafilo",
+    "grupo": "DIFUCION ERECTIL",
+    "laboratorio": "GABBLAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000613",
+    "producto": "SILDENAFILO 50MG X 1 TAB MARFAN",
+    "principio_activo": "Sildenafilo",
+    "grupo": "DIFUCION ERECTIL",
+    "laboratorio": "TEVA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000611",
+    "producto": "SILDEX 50 MG X 1 TAB",
+    "principio_activo": "Sildenafilo",
+    "grupo": "DIFUCION ERECTIL",
+    "laboratorio": "PHARMED CORPORATION",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00000572",
+    "producto": "SKY BODY DESODORANTE SPRAY OCEAN X150ML HOMBRE",
+    "principio_activo": "",
+    "grupo": "DESODORANTE",
+    "laboratorio": "GOTOMARKET",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000534",
+    "producto": "SUBALZINA 500MG CAJA X30 TAB",
+    "principio_activo": "Mesalazina",
+    "grupo": "ANTIFLAMATORIO DIGESTIVO",
+    "laboratorio": "JOBAL PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000485",
+    "producto": "TADA 20 MG X 4 TABLETAS",
+    "principio_activo": "Tadalafilo",
+    "grupo": "DIFUCION ERECTIL",
+    "laboratorio": "EUROFARMA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000483",
+    "producto": "TAGRIP- N CAJA X 60 SOBRE",
+    "principio_activo": "Paracetamol + guaifenesina + fenilefrina",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "BRANDARIUM",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000466",
+    "producto": "TAPSIN PLUS CALIENTE DIA X 60 SOBRES",
+    "principio_activo": "Paracetamol + fenilefrina + cafeína",
+    "grupo": "ANTIGRIPAL",
+    "laboratorio": "PER MAVER LINEA OTC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000461",
+    "producto": "TDN ALLERGY 10MG X 100 CAPS BLAN",
+    "principio_activo": "Loratadina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "SHERFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000459",
+    "producto": "TE VERDE FRASCO X100 CAPSULAS",
+    "principio_activo": "Extracto de té verde",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000450",
+    "producto": "TELCARD 80MG X 30 TAB",
+    "principio_activo": "Telmisartán",
+    "grupo": "ANTIHIPERTENSIVO",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00000441",
+    "producto": "TENSOFLOW 10MG CAJA X30 TABLETAS",
+    "principio_activo": "Amlodipino — confirmar ficha técnica",
+    "grupo": "ANTIHIPERTENSIVOS",
+    "laboratorio": "JAM PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000436",
+    "producto": "TERBIFUN 1% X 30 ML",
+    "principio_activo": "Terbinafina",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "CAFERMA LABORATORIOS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000434",
+    "producto": "TERBILAB 250 MG X 10 TAB",
+    "principio_activo": "Terbinafina",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "LABOFAR",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00000424",
+    "producto": "TERFITIL 1 % X 20 GR. CREMA",
+    "principio_activo": "Terbinafina",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000416",
+    "producto": "TERSSA JABON FORMULA FORTE 100 GR",
+    "principio_activo": "No aplica (jabón)",
+    "grupo": "CUIDADO DE LA PIEL",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000415",
+    "producto": "TEST DE EMBARAZO CONTROLGYN CASSETE X 1",
+    "principio_activo": "Detecta hCG en orina",
+    "grupo": "Test diagnóstico / Prueba de embarazo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000414",
+    "producto": "TEST DE EMBARAZO CONTROLGYN LAPICERO X 1",
+    "principio_activo": "Detecta hCG en orina",
+    "grupo": "Test diagnóstico / Prueba de embarazo",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000407",
+    "producto": "TEST EMBARAZO PRECISA LAPICERO X 1 UND",
+    "principio_activo": "Detecta hCG en orina",
+    "grupo": "Test diagnóstico / Prueba de embarazo",
+    "laboratorio": "MONTGROUP SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000405",
+    "producto": "TETINA REGULAR AGUGU N.3 CAJA X 1 UNID",
+    "principio_activo": "Silicona",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "AGUGU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000403",
+    "producto": "TETINA REGULAR AGUGU N¦5",
+    "principio_activo": "Silicona",
+    "grupo": "BIBERONES/TETINAS",
+    "laboratorio": "AGUGU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000401",
+    "producto": "TETRACORT 2MG/5ML SOLUCION ORAL X100 ML",
+    "principio_activo": "Dexametasona fosfato sódico 2 mg/5 mL",
+    "grupo": "CORTICOIDES",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000389",
+    "producto": "TIFOCOL 250MG CAJA X100 TABLETAS",
+    "principio_activo": "Terbinafina 250 mg",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "DISTRIBUIDORA DROGUERIA LAS AMERICAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000388",
+    "producto": "TIGLITOR 20MG CAJA X30 TAB",
+    "principio_activo": "Atorvastatina",
+    "grupo": "HIPOLIPEMIANTES / ESTATINAS",
+    "laboratorio": "LABORATORIOS DELFARMA",
+    "estado_cruce": "Revisar nombre"
+  },
+  {
+    "codigo": "00000330",
+    "producto": "TOSALFLEM JARABE X 120 ML",
+    "principio_activo": "Dextrometorfano + guaifenesina + pseudoefedrina + triprolidina",
+    "grupo": "Antitusígeno",
+    "laboratorio": "MARKOS S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000259",
+    "producto": "UREN 100 MG. CAJA X 100 TABLTAS (FENAZOPIRIDINA)",
+    "principio_activo": "Fenazopiridina",
+    "grupo": "INFECCION URINARIA",
+    "laboratorio": "PHARMED CORPORATION",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000245",
+    "producto": "VAGICAND 1%TUBO X 40 GR +7 APLICADORES",
+    "principio_activo": "Clotrimazol 1%",
+    "grupo": "ANTIFUNGICO",
+    "laboratorio": "LAFARPE",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000211",
+    "producto": "VAXIGEL X 100 OVULOS",
+    "principio_activo": "Nistatina + metronidazol",
+    "grupo": "ANTIFÚNGICOS / GINECOLÓGICOS",
+    "laboratorio": "UNIMED DEL PERU S.A.",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000192",
+    "producto": "VERALER 2.5MG/5ML SOLUCION ORAL FRASCO X80ML",
+    "principio_activo": "Levocetirizina",
+    "grupo": "ANTIHISTAMÍNICOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000190",
+    "producto": "VERFARTIN 1% (IVERMECTINA)CREMA TUBO X30G",
+    "principio_activo": "Ivermectina",
+    "grupo": "ANTIPARASITOS",
+    "laboratorio": "FARMASUR S.A.C",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000166",
+    "producto": "VIT TRINEXIN FORTE CAJA X100 CAPSULAS",
+    "principio_activo": "Vitaminas del Complejo B",
+    "grupo": "Suplemento vitamínico / dietético",
+    "laboratorio": "FARMEDIC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000164",
+    "producto": "VITACHYZ FORTE CAJA X 30 SOBRES",
+    "principio_activo": "Componente principal según ficha técnica",
+    "grupo": "ASEO PERSONAL",
+    "laboratorio": "CFARMA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000162",
+    "producto": "VITAL HOMBRE FRASCO X100 CAPSULAS",
+    "principio_activo": "Componente principal según ficha técnica",
+    "grupo": "VITAMINICO",
+    "laboratorio": "NATURAL HEALTH",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000142",
+    "producto": "VITAQUIMFA CA+D+K TUBO X20 EFERVECENTES",
+    "principio_activo": "Calcio + vitamina D3 + vitamina K",
+    "grupo": "VITAMINICO",
+    "laboratorio": "QUIMFA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000141",
+    "producto": "VITAQUIMFA MULTIVITAMINICO TUBO X20 EFERVECENTES",
+    "principio_activo": "Multivitamínico (ver composición)",
+    "grupo": "MULTIVITAMINICOS",
+    "laboratorio": "QUIMFA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000140",
+    "producto": "VITAQUIMFA VITAMINA C1000MG+ZINC 10MG TUBO X20 EFE",
+    "principio_activo": "Ácido ascórbico 1000 mg + zinc 10 mg",
+    "grupo": "VITAMINICO",
+    "laboratorio": "QUIMFA PERU",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000101",
+    "producto": "VODRAVOL 50MG X100 TABLETAS",
+    "principio_activo": "Dimenhidrinato",
+    "grupo": "ANTIEMÉTICOS / ANTIVERTIGINOSOS",
+    "laboratorio": "LABOFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000094",
+    "producto": "VOMIXTAL 50MG CAJA X100 COMPRIMIDOS",
+    "principio_activo": "Dimenhidrinato",
+    "grupo": "ANTIEMÉTICOS / ANTIVERTIGINOSOS",
+    "laboratorio": "ROXFARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000088",
+    "producto": "WELTONIC JUNIOR FRASCO X 180ML D.P",
+    "principio_activo": "Maca negra + malta + algarrobina + miel de abeja + polen + jalea real",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000087",
+    "producto": "WELTONIC X 345 ML",
+    "principio_activo": "Maca negra + malta + algarrobina + miel de abeja + polen + jalea real",
+    "grupo": "SUPLEMENTO",
+    "laboratorio": "GILSAN",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000071",
+    "producto": "XILOCAINA 10%SPRAY FRASCO X115ML",
+    "principio_activo": "Lidocaína",
+    "grupo": "ANESTESICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000070",
+    "producto": "XILOCAINA 2% (LIDOCAINA) JALEA VIA TOPICA X30 G",
+    "principio_activo": "Lidocaína",
+    "grupo": "ANESTESICO",
+    "laboratorio": "OQPHARM SAC",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000065",
+    "producto": "XOCOVIT B12 X 10 AMPOLLA",
+    "principio_activo": "Hidroxocobalamina (vitamina B12) 1 mg/mL",
+    "grupo": "VITAMINICO",
+    "laboratorio": "LIPHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000064",
+    "producto": "XORLYST 120 MG X 30 CAP",
+    "principio_activo": "Orlistat",
+    "grupo": "QUEMADORES DE GRASA",
+    "laboratorio": "PORTUGAL MARCAS",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000063",
+    "producto": "XTREME BOOST ENERGY SABOR GUARANA X20 EFERV",
+    "principio_activo": "Cafeína/guaraná y otros componentes energizantes según fórmula",
+    "grupo": "ENERGIZANTE",
+    "laboratorio": "GERMAN NERGY",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000058",
+    "producto": "YODOX SOLUCION TOPICA 10% X 60 ML",
+    "principio_activo": "Povidona yodada 10%",
+    "grupo": "ANTISEPTICO",
+    "laboratorio": "GENCO PHARMACEUTICAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000024",
+    "producto": "ZERCOXA 90 MG CAJA X100 TABLETAS",
+    "principio_activo": "Etoricoxib",
+    "grupo": "ANTIFLAMATORIOS NO ESTEROIDEOS",
+    "laboratorio": "TOBAL",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000015",
+    "producto": "ZINC 30 MG CAJA X 100 TAB.",
+    "principio_activo": "Zinc",
+    "grupo": "SUPLEMENTOS MINERALES",
+    "laboratorio": "SMART PHARMA",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000007",
+    "producto": "ZITROLAB 200MG/5ML X 30 ML",
+    "principio_activo": "Azitromicina",
+    "grupo": "ANTIBIOTICOS",
+    "laboratorio": "LABOFAR",
+    "estado_cruce": "Coincidencia"
+  },
+  {
+    "codigo": "00000002",
+    "producto": "ZOMEPRAL 20MG CAJA 30TABLETAS",
+    "principio_activo": "Omeprazol",
+    "grupo": "inhibidores de la bomba de protones (IBP).",
+    "laboratorio": "OQ PHARMA",
+    "estado_cruce": "Coincidencia"
+  }
+]

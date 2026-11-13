@@ -1,0 +1,25 @@
+# Archivos internos, confidenciales y ajenos a la presentaciÃ³n.
+*.sql
+/sql/
+/diagnosticos/
+/tests/
+*.log
+*.csv
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.dump
+*.bak
+*.backup
+*.zip
+*.7z
+/backups/
+/respaldos/
+node_modules/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
