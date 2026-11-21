@@ -1,0 +1,8 @@
+.env*
+data/
+supabase/
+img/[0-9]*
+*.sql
+*.dump
+*.backup
+*.json

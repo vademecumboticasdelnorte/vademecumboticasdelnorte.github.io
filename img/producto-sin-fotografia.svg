@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">Producto sin fotografía disponible</title>
+  <desc id="desc">Ilustración genérica de un envase, sin marca ni datos del medicamento.</desc>
+  <rect width="320" height="220" rx="18" fill="#f3f6fa"/>
+  <g fill="none" stroke="#8b9db4" stroke-width="3" stroke-linejoin="round">
+    <path d="M120 61h66v91h-66z" fill="#fff"/>
+    <path d="m120 61 18-13h66l-18 13M186 61l18-13v91l-18 13" fill="#e3eaf3"/>
+    <path d="M133 84h40M133 97h30M133 122h24"/>
+    <circle cx="185" cy="143" r="24" fill="#f3f6fa"/>
+    <path d="m169 127 32 32"/>
+  </g>
+  <text x="160" y="191" text-anchor="middle" fill="#526781" font-family="Arial,sans-serif" font-size="16">Fotografía no disponible</text>
+</svg>
